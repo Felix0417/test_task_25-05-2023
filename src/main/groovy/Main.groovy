@@ -1,3 +1,5 @@
+package main.groovy
+
 import groovy.transform.CompileStatic
 
 import java.util.stream.Collectors
